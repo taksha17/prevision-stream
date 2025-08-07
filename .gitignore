@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+*.env
+env/
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# Large media files - these should not be in a git repo
+*.mp4
+*.mov
+*.avi
+*.zip
+
+# OS-specific files
+.DS_Store
+Thumbs.db
