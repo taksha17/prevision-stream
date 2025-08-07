@@ -9,11 +9,7 @@ A comprehensive, end-to-end computer vision pipeline that performs real-time obj
 
 ### 🎥 Live Demo
 
-*(Create a GIF of your `main_app.py` in action and embed it here. Use a tool like Giphy Capture or ScreenToGif. This is highly recommended!)*
-
-![Demo GIF](link_to_your_demo.gif)
-
----
+"Uploading SOON"
 
 ### ✨ Key Features
 
